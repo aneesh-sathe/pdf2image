@@ -83,5 +83,5 @@ def extract_figures_from_image(image_path, output_folder, page_number):
 
 # Usage example
 pdf_path = 'input.pdf'
-output_folder = 'output'
+output_folder = 'output-images'
 convert_pdf_to_images(pdf_path, output_folder)

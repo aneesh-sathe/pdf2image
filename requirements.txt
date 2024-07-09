@@ -1,0 +1,4 @@
+numpy==2.0.0
+opencv-python==4.10.0.84
+pdf2image==1.17.0
+pillow==10.4.0
